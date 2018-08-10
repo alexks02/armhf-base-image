@@ -30,7 +30,7 @@ fi
 # Debian parameters
 #
 
-deb_mirror="http://ftp.ua.debian.org/debian"
+deb_mirror="http://ftp.us.debian.org/debian"
 deb_release="stable"
 rootfs="${work_dir}/rootfs"
 architecture="armhf"
